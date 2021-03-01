@@ -2148,55 +2148,860 @@
         "A": "You should see the will of God and the divine handiwork in everything, and not treat lightly the things you ought to respect. Why not respect all the works of creation, which are sometimes incomplete by the will of the Creator? Everything follows according to God’s designs and no one is called upon to judge them."
     }, 
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "361",
+        "Q": "Where do a person’s good or evil moral qualities come from?",
+        "A": "They reflect the qualities of the incarnate spirit. The purer the spirit, the more the person is inclined toward the good."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "361a",
+        "Q": "So a moral person is the incarnation of a good spirit and a cruel person that of an evil spirit?",
+        "A": "Yes, but it would be better to say an imperfect spirit; otherwise, one might believe in spirits who will always remain evil – those you call demons."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "362",
+        "Q": "What is the character of the individuals in whom frivolous and foolish spirits are incarnated?",
+        "A": "They are thoughtless, cunning, and sometimes malicious beings."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "363",
+        "Q": "Do spirits possess any passions that do not belong to humankind?",
+        "A": "No; otherwise, they would have passed them on to you."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "364",
+        "Q": "Is it one and the same spirit who gives an individual his or her moral and intellectual qualities?",
+        "A": "Certainly it is one and the same, and such qualities will depend on the degree of the spirit’s evolution. Individuals do not have two spirits within them."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "365",
+        "Q": "Why are the most intelligent individuals, who display a highly evolved spirit incarnated in them, sometimes and at the same time extremely cruel?",
+        "A": "It is because the incarnate spirit is not sufficiently purified; also, because the person yields to the influence of other spirits who are even worse. A spirit progresses in an imperceptible ascending forward progression, but this progress is not accomplished simultaneously in all senses. During one period a spirit may advance in knowledge; during another, in morality."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "366",
+        "Q": "What about the opinion according to which the various moral and intellectual qualities of humans are the product of many different spirits incarnate in them, each possessing a special aptitude?",
+        "A": "If you reflect on it, you will realize how absurd that is. A spirit must possess all aptitudes and in order to progress, it needs a unified will. If a person were a collection of spirits, this unified will would not exist. He or she would possess no individuality, because at death all those spirits would be like a flock of birds escaping from a cage. People often complain that they do not understand certain things, but it is interesting to notice how they multiply their problems when they have a very simple and natural explanation right there in their own hands. This notion is another example of taking the effect for the cause; it attributes to the human being what the pagans attributed to God. They believed in as many gods as there were phenomena in the universe. However, even among them sensible persons saw nothing more in those phenomena than effects having as their cause a sole God."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "367",
+        "Q": "Upon joining the body, does a spirit identify itself with matter?",
+        "A": "Matter is no more than the spirit’s envelope, as clothing is the body’s envelope. Upon joining the body, a spirit preserves the attributes of its spirit nature."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "368",
+        "Q": "Does a spirit exercise its faculties with full liberty after its union with a body?",
+        "A": "The exercise of its faculties depends on the organs serving as their instruments. They are weakened by the density of matter."
     },
     {
-        "Id": "",
-        "Q": "",
-        "A": ""
+        "Id": "368a",
+        "Q": "Then accordingly, would the material envelope be an obstacle to the free manifestation of the spirit’s faculties, like an opaque glass is an obstacle to the free emission of light?",
+        "A": "Yes, and exceedingly opaque."
     }, 
+    {
+        "Id": "369",
+        "Q": "Is the free exercise of the soul’s faculties subordinate to the development of the bodily organs?",
+        "A": "The organs are the instruments for the manifestation of the soul’s faculties. This manifestation depends on the degree of the respective organs’ development, just as the excellence of a piece of work depends on the excellence of the tool."
+    },
+    {
+        "Id": "370",
+        "Q": "Could one infer from the influence of the organs a connection between the development of the cerebral structure and the moral and intellectual faculties?",
+        "A": "Do not confuse the effect with the cause. The spirit always possesses the faculties that are proper for it. Thus, it is not the organs that give it its faculties, but rather the faculties that stimulate the development of the organs."
+    },
+    {
+        "Id": "370a",
+        "Q": "According to this view, does the diversity of aptitudes among individuals stem solely from the condition of their spirit?",
+        "A": "Solely is not the exact term. The qualities of the spirit, who may be more advanced or less so, are the basis for this diversity; however, we must take into account the influence of matter because it hinders to a greater or lesser degree the exercising of these faculties."
+    },
+    {
+        "Id": "371",
+        "Q": "Is there any basis for the opinion that mentally impaired individuals have a soul of a little-evolved nature?",
+        "A": "No. They have a human soul who is frequently more intelligent than you might think, and who suffers immensely from the insufficiency of its means to communicate – as a mute suffers from the inability to speak."
+    },
+    {
+        "Id": "372",
+        "Q": "What is the aim of Providence in creating unfortunate beings like the mentally impaired?",
+        "A": "The spirits who dwell in such bodies are expiating past wrongs. They suffer from their constraints and from the impossibility of expressing themselves because of undeveloped or defective brains."
+    },
+    {
+        "Id": "372a",
+        "Q": "Then is it inaccurate to say that organs do not exercise any influence on the faculties?",
+        "A": "We have never said that organs have no influence at all; rather, they exercise a very great influence on the manifestation of the faculties, but they themselves do not produce the faculties – that is the difference. A good musician will not make good music with a bad instrument, but that does not mean he or she is not a good musician."
+    },
+    {
+        "Id": "373",
+        "Q": "What could possibly be the merit in the existence of beings who, like the mentally impaired, can do neither good nor evil, and therefore cannot progress?",
+        "A": "It is an expiation imposed for their having abused certain faculties in a former life; it is a temporary pause."
+    },
+    {
+        "Id": "373a",
+        "Q": "So the body of a mentally impaired person may confine a spirit who perhaps animated the body of a genius in a preceding existence?",
+        "A": "Yes, genius sometimes becomes a curse when it is abused."
+    },
+    {
+        "Id": "374",
+        "Q": "In the spirit state, are the mentally impaired conscious of their mental state?",
+        "A": "Yes, quite often. They understand that the chains hindering their development are a trial and an expiation."
+    },
+    {
+        "Id": "375",
+        "Q": "What is the situation of the spirit in the state of insanity?",
+        "A": "When freed from the body, the spirit receives impressions directly, and directly exerts its action upon matter. Once incarnated, however, it finds itself in completely different conditions and in need of acting with the help of special organs. If one part or a group of these organs is altered, the spirit’s actions are interrupted – defective eyes cause blindness; defective ears cause deafness, etc. Now imagine that the organ presiding over the manifestations of intelligence and will is partially or entirely damaged or modified and you will easily understand that the use of such an incomplete or distorted organ will result in an affliction that the spirit is fully aware of, but whose course it is powerless to deter."
+    },
+    {
+        "Id": "375a",
+        "Q": "Then it is always the body and not the spirit that is dysfunctional?",
+        "A": "Yes, but you must not lose sight of the fact that just as a spirit acts upon matter, matter reacts upon the spirit to a certain degree; hence, a spirit may find itself momentarily controlled by the alteration of its organs through which it manifests and receives various impressions. It may happen that, with time, and after the insanity has lasted quite a while, the repetition of the same acts end up exerting on the spirit an influence from which it will not be freed until its complete separation from every material effect."
+    },
+    {
+        "Id": "376",
+        "Q": "What is the reason for insanity sometimes leading to suicide?",
+        "A": "The spirit suffers immensely from its constraints and from the powerlessness to freely manifest itself. Thus, it seeks a way to break its ties in death."
+    },
+    {
+        "Id": "377",
+        "Q": "After death, does the spirit of a mentally impaired person continue to feel the derangement of its faculties?",
+        "A": "It may feel it for quite some time until it is completely disconnected from matter, like a person who, upon awakening, continues to feel the confusion into which sleep has immersed him or her."
+    },
+    {
+        "Id": "378",
+        "Q": "How is it possible for the impairment of the brain to react upon the spirit after death?",
+        "A": "It is a remembrance. A weight bears down upon the spirit, and since it was not aware of everything that took place during its insanity, it requires some time to be able to understand its current state. That is why the longer insanity lasts during life, the longer the affliction and the constraint will last after death. Disconnected from the body, the spirit continues to feel the impression of its bonds for some time thereafter."
+    },
+    {
+        "Id": "379",
+        "Q": "Is the spirit who animates the body of a child as developed as the spirit of an adult?",
+        "A": "Maybe more so if it is more evolved. Only its imperfect organs keep it from fully manifesting itself. It must act according to the instrument that serves it."
+    },
+    {
+        "Id": "380",
+        "Q": "In a very young child, and despite the obstacle that the imperfection of its organs imposes on its ability to freely manifest itself, does the spirit think as a child or as an adult?",
+        "A": "While a child, it is natural that the as-yet undeveloped organ of intelligence cannot provide it with all the intuition of an adult. Its intelligence is therefore quite limited until age matures its reason. The confusion accompanying incarnation does not cease suddenly at birth, but only dissipates gradually with the development of the organs."
+    },
+    {
+        "Id": "381",
+        "Q": "With the death of the child, does the spirit immediately regain its former vigor?",
+        "A": "It should, since it has been disencumbered from its physical envelope. Nevertheless, it does not regain its former lucidity until the separation is complete, that is, until there is no connection between the spirit and the body at all."
+    },
+    {
+        "Id": "382",
+        "Q": "Does the incarnate spirit suffer from the constraint imposed by the imperfection of its organs during childhood?",
+        "A": "No. Childhood is a necessity. It is natural and corresponds to the designs of Providence. It is a time of repose for the spirit."
+    },
+    {
+        "Id": "383",
+        "Q": "What is the usefulness of a spirit having to go through childhood?",
+        "A": "A spirit incarnates in order to perfect itself. During childhood it is more accessible to the impressions it receives, and which may assist in its progress. Persons in charge of its education should contribute towards this goal."
+    },
+    {
+        "Id": "384",
+        "Q": "Why are a child’s first expressions those of crying?",
+        "A": "To incite the mother’s interest and ensure the care it needs. Don’t you understand that if it only expressed joy while still unable to speak, few would be concerned about its needs? Therefore, you ought to admire the wisdom of Providence in everything."
+    },
+    {
+        "Id": "385",
+        "Q": "What is the reason for the change that occurs in its character at a certain age, particularly upon leaving adolescence? Is it the spirit that changes?",
+        "A": "It is because the spirit recaptures its true nature and reveals who it really was prior to its present incarnation. You do not know the secrets that children conceal behind their innocence. You do not know what they are, what they have been or what they will be; nevertheless, you love and cherish them as though they were a part of you. This happens to such a degree that the love of a mother for her child is reputed to be the greatest love that one being may have for another. Why do even strangers feel sweet affection and display tender benevolence toward a child? Do you know? No? Well, I will explain it to you. Children are beings whom God has sent into a new existence. So that God is not accused of excessive severity, God gives them all the appearances of innocence. Even in children of an evil nature, their misdeeds are covered up because they are unaware of the quality of their acts. However, this innocence does not truly reflect their state of advancement in relation to what they previously were. In reality, it is a picture of what they ought to be, and if they are not, the blame falls on them alone. Nevertheless, it is not merely for the children’s sake that God gives them such an appearance; it is also and especially for their parents, whose love is necessary in their fragility. Such love would be extraordinarily weakened if the parents were faced with a quarrelsome and bad- tempered character. On the other hand, supposing their children to be good and gentle, parents give them all their affection and surround them with the tenderest care. However, when children no longer need the protection and assistance that has been given to them for fifteen or twenty years, their true and individual character emerges in all its nakedness. Their character remains good if it was fundamentally good in the first place, but it will always display nuances that were hidden during early childhood. You can see that God’s ways are always the best, and that when one has a pure heart, they are easily explained. In fact, ponder the possibility that the spirit of the child who is born among you may have come from a world on which it had acquired altogether different habits. How would you want this new being to remain in your midst with passions so diverse from yours, inclinations and tastes entirely opposite to yours? How would you want it to incorporate itself into your environment except in the way God wanted it to, that is, after having experienced the sieve of childhood? In this phase are mixed all the thoughts, all the characteristics and all the varieties of beings generated by that multitude of worlds on which individuals develop. Upon dying, you yourselves will also be in a sort of childhood in the midst of new family members. In your new non-terrestrial existence, you will be ignorant of the habits, the customs and the forms of relationships of that world, and you will have difficulty in managing a language you are not used to speaking – a language more alive than your thought is today. Childhood provides yet another purpose: spirits only enter corporeal life in order to improve and purify themselves. The fragility of the early years renders them flexible and accessible to the counsels of experience and to those who should aid their progress. That is the time when one can best reform their character and curb their evil tendencies. Such is the duty that God entrusts to parents, a sacred mission for which they will have to answer. Consequently, childhood is not only useful, necessary and indispensable, but it is also the natural result of the laws that God has established, and which govern the universe."
+    },
+    {
+        "Id": "386",
+        "Q": "Could two individuals who have already known and loved each other meet in another corporeal existence and recognize each other?",
+        "A": "Recognize each other, no; feel attracted to each other, yes. Frequently, intimate connections founded on sincere affection arise from no other cause. Two individuals are drawn together by apparently fortuitous circumstances, but it is actually the result of the attraction of two spirits who have been searching for each other amidst the crowds."
+    },
+    {
+        "Id": "386a",
+        "Q": "Wouldn’t they find great pleasure in being able to recognize each other?",
+        "A": "Not always. The memory of past lives might hold greater disadvantages than you suppose. After death, they will recognize each other and will remember the time they spent together."
+    },
+    {
+        "Id": "387",
+        "Q": "Is sympathy always the result of their having known each other previously?",
+        "A": "No. Two spirits who have affinities naturally search for each other without their having been previously acquainted as incarnates."
+    },
+    {
+        "Id": "388",
+        "Q": "Wouldn’t the encounters which sometimes occur between certain persons, and which are attributed to chance, be the effect of a kind of sympathetic relationship?",
+        "A": "Among thinking beings there are connections that you do not yet know anything about. Magnetism is at the core of this science, which you will later comprehend better."
+    },
+    {
+        "Id": "389",
+        "Q": "Where does the instinctive repulsion come from when certain individuals meet each other for the first time?",
+        "A": "They are antipathetic spirits who perceive and recognize each other without ever having spoken to each other."
+    },
+    {
+        "Id": "390",
+        "Q": "Is instinctive antipathy always a sign of an evil nature?",
+        "A": "Two spirits are not necessarily evil just because they are not sympathetic. Antipathy may originate from a dissimilarity in their way of thinking. As they evolve, however, these shades of dissimilarity are erased and the antipathy disappears."
+    },
+    {
+        "Id": "391",
+        "Q": "Does the antipathy between two individuals arise first in the one whose spirit is worse or in the other whose spirit is better?",
+        "A": "It arises in both, but the causes and effects are different. An evil spirit feels antipathy towards anyone who may be able to judge and unmask it. Upon seeing a person for the first time, it perceives that that person will disapprove of it. Its dislike then changes into hatred and envy, which inspire it with the desire to do evil. The good spirit, on the other hand, is repulsed by the evil one because it knows it will not be understood by the other and that neither shares the same sentiments. However, aware of its higher moral principles, it feels neither hatred nor jealousy toward the other: it is content to simply avoid and pity it."
+    },
+    {
+        "Id": "392",
+        "Q": "Why does the incarnate spirit lose the memory of its past?",
+        "A": "Human beings cannot and must not know everything. God, out of divine wisdom, wills it to be this way. Without the veil that hides certain things from them, they would be dazzled, like one who passes suddenly from the darkness into the light. By forgetting their past, they are more fully themselves in the present."
+    },
+    {
+        "Id": "393",
+        "Q": "How can individuals be responsible for their deeds and redeem their wrongs if they cannot remember them? How can they profit from the experience acquired in lives that have fallen into forgottenness? We could understand that life’s tribulations might be a lesson for them if they could remember what had caused them in the first place, but since they do not remember them at all, each existence is as if it were the first, and it is thus that they are always having to start over. How can this be reconciled with the justice of God?",
+        "A": "With each new existence, spirits gain more intelligence and can better distinguish between good and evil. Where would their merit be if they remembered their entire past? When spirits enter their life of origin (the spirit life), their entire previous life unfolds before them. They see the wrongs they committed, and which are the cause of their suffering, as well as what would have kept them from committing them in the first place. They understand the justice of the position assigned to them, and they thus desire a new existence that can redeem the one that has elapsed. They seek trials similar to those they have already experienced, or struggles they believe will be appropriate for their advancement. They ask spirits who are of a higher order to help them in the new task that they are about to undertake, for they know that the spirit who will be given to them as their guide in that new existence will endeavor to enable them to repair their wrongs of the past by giving them a sort of intuition about them. This same intuition is the thought, the wrongful desire, which frequently assaults you, and which you instinctively resist, most of the time attributing your resistance to the principles you have received from your parents. However, it is the voice of conscience speaking to you and this voice is a memory of the past, a voice that warns you not to fall into the errors you committed previously. In that new existence, if a spirit endures its trials with courage and resists them, it evolves and will ascend in the spirits’ hierarchy when it returns to be among them."
+    },
+    {
+        "Id": "394",
+        "Q": "On worlds more advanced than ours, where beings are not subject to all our physical needs and infirmities, do they understand that they are happier than we are? Happiness, in general, is relative; we feel it by comparing it with a less happy state. In sum, some of those worlds, though better than ours, have not yet reached the state of perfection, and their inhabitants must have their own annoyances. Even though the wealthy among us do not suffer the anxieties of material needs like the poor, they are no less subject to the same types of tribulations that embitter their lives. Thus, I would ask whether the inhabitants of those worlds in their own situations feel as unhappy as we do, and whether they also complain about their fate since they do not have the memory of a less evolved existence for comparison.",
+        "A": "Two different answers apply to this question. There are worlds among those you are speaking about, on which the inhabitants have a clear and exact memory of their past lives. You should understand that these can and do know how to appreciate the happiness that God permits them to enjoy. However, there are other worlds whose inhabitants, situated, as you say, in better conditions than yours, are no less subject to great annoyances, and even misfortunes. They do not appreciate their happiness because they do not remember an even unhappier state. Nevertheless, if they do not appreciate it as incarnates, they will as spirits."
+    },
+    {
+        "Id": "395",
+        "Q": "Can we obtain any revelations about our former lives?",
+        "A": "Not always. Nevertheless, many know who they were and what they did. If they were permitted to speak openly, they would make curious revelations about the past."
+    },
+    {
+        "Id": "396",
+        "Q": "Some persons believe they have a vague memory of an unknown past. It appears as a fleeting image of a dream, which in vain they try to retain. Wouldn’t this belief simply be an illusion?",
+        "A": "It is sometimes real, but much more often it is an illusion to be guarded against; it could simply be the effect of an over-excited imagination."
+    },
+    {
+        "Id": "397",
+        "Q": "In corporeal existences of a more evolved nature than ours, is the memory of previous lives more precise?",
+        "A": "Yes, as the body becomes less material, they become easier to remember. The memory of the past is clearer for those who inhabit worlds of a higher order."
+    },
+    {
+        "Id": "398",
+        "Q": "Since people’s instinctive tendencies are a reminiscence of their past, then by studying those tendencies can they know about the wrongs they committed?",
+        "A": "Undoubtedly, to a certain point; however, it is necessary to take into account the improvement that may have taken place in the spirit and the resolutions it made in its errant state. Their present existence could in fact be much better than the preceding one."
+    },
+    {
+        "Id": "398a",
+        "Q": "Could it be worse? In other words, could persons commit wrongs in their present existence, which they had not committed in the preceding one?",
+        "A": "That depends on their advancement. If they do not yet know how to resist trials, they could be drawn to commit new wrongs as a consequence of the position they themselves have chosen. But such wrongs indicate a stationary state rather than a regressive one, because spirits may advance or remain stationary; they do not regress."
+    },
+    {
+        "Id": "399",
+        "Q": "Since the tribulations of corporeal life are at the same time expiations for past wrongs and trials for the future, does it follow that, from the nature of these tribulations, we may deduce the kind of preceding existence we lived?",
+        "A": "Very frequently, because individuals are punished for their particular sins. Nevertheless, we cannot make this an absolute rule. The instinctive tendencies are a more certain indication because the trials that a spirit undergoes refer as much to the future as to the past."
+    },
+    {
+        "Id": "400",
+        "Q": "Does an incarnate spirit willingly stay in its corporeal envelope?",
+        "A": "That is like asking if a prisoner is happy being under lock and key. An incarnate spirit constantly aspires to freedom. The denser the envelope, the more it wants to be free of it."
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
+    {
+        "Id": "",
+        "Q": "",
+        "A": ""
+    },
     {
         "Id": "",
         "Q": "",
